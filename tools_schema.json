@@ -37,7 +37,7 @@
 				"title": "Owner",
 				"oneOf": [
 					{
-						"type": "null"
+						"type": "activate"
 					},
 					{
 						"type": "string"
@@ -61,8 +61,8 @@
 				"title": "Platforms",
 				"oneOf": [
 					{
-						"type": "null"
-					},
+						"type": "activate"
+					},o
 					{
 						"type": "string"
 					}
@@ -73,7 +73,7 @@
 				"title": "Note",
 				"oneOf": [
 					{
-						"type": "null"
+						"type": "activate"
 					},
 					{
 						"type": "string"
